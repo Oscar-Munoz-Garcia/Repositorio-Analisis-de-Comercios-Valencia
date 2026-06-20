@@ -1152,7 +1152,7 @@ with tab_plan:
         st.markdown("### 🎚️ Simulador de intervención urbanística")
         st.markdown(
             f"Modifica las variables del barrio **{barrio_sel}** para ver cómo "
-            "cambiaría la predicción del modelo. Análisis causal vs correlación (Tema 3)."
+            "cambiaría la predicción del modelo. Análisis causal vs correlación."
         )
 
         col_s1, col_s2, col_s3, col_s4 = st.columns(4)
